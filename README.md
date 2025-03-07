@@ -4,6 +4,7 @@
 	- [Maven Dependencies](#maven-dependencies)
 - [How to run](#how-to-run)
 - [How to use program](#how-to-use-program)
+- [Screenshots](#screenshots)
 
 
 # Introduction
@@ -63,4 +64,20 @@ When program is started it runs and listends for following commands:
 ##### [NOTICE]
 - CSV Files: when .csv file is opened with Microsoft Excel it does not display properly, but when opened .csv file in Google Sheets or any other .csv viewer it works.
 - API Constraints: cannot call API consistently n-times, so instead I get n-items in one API call. I got HTTPStatusCode 429 - Too Much Requests.
+
+
+
+## Screenshots
+
+- Command Input:
+![Image](https://github.com/user-attachments/assets/a057f91d-1239-420f-8405-11eae59ec4df)
+
+- JSON Output:
+![Image](https://github.com/user-attachments/assets/5f9686dd-09ee-4118-819d-988943a09e67)
+
+- CSV Output:
+![Image](https://github.com/user-attachments/assets/2b57890f-ebbc-4c30-b1b8-3f2168be442f)
+
+- Console Output:
+![Image](https://github.com/user-attachments/assets/1defbbb4-221d-413f-93bb-9582fcb55e88)
 
