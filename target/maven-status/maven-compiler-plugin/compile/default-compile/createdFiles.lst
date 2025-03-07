@@ -1,0 +1,7 @@
+task1\model\Result.class
+task1\util\ConnectionHandler.class
+task1\exception\HttpResponseException.class
+task1\util\CommandParser.class
+task1\model\ResultHandler.class
+task1\Application.class
+task1\util\ConnectionHandler$1.class
