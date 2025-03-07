@@ -12,7 +12,7 @@ This utility interacts with the [Trivia Questions Database API](https://opentdb.
 
 ## Project Requirements
 - This utility is using [Trivia Questions Database API](https://opentdb.com/ "Trivia Questions Database API") as backend.
-- Utiliti is written in [Eclipse IDE](https://eclipseide.org/ "Eclipse IDE") as [Maven Project](https://maven.apache.org/ "Maven Project").
+- Utility is written in [Eclipse IDE](https://eclipseide.org/ "Eclipse IDE") as [Maven Project](https://maven.apache.org/ "Maven Project").
 
 #### Maven Dependencies:
 - [APACHE HTTP Components](https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient/4.5.14 "APACHE HTTP Components") (version: 4.5.14): for communicating with backend using HTTP protocol.
